@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7060db8a-35ec-44fe-85c8-26a3e42788b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../4/.checkstyle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/Discussion.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/Rationale (Updated).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/carcassonne_design(revised).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/config/checkstyle/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/Discussion.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/Rationale (Updated).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/behavioral_contract.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/carcassonne_design(revised).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/carcassonne_design.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/domain.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/interaction_monastery_scoring.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/interaction_tile_validation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/object.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/rationale.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/response.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/system_sequence.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/design_documents/~$scussion.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/hw4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/response.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/rules.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/core/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/core/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/core/Carcassonne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/core/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/core/Feature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/core/JSONConfigReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/core/Segment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/core/Tile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/gui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/gui/BoardPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/gui/CarcassonneUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/gui/ImageOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/gui/PlayersCreationClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/gui/PlayersTablePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/gui/TileDisplayPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/java/edu/cmu/cs/cs214/hw4/gui/TileImageOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/resources/Carcassonne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/main/resources/Config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/test/java/edu/cmu/cs/cs214/hw4/core/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/test/java/edu/cmu/cs/cs214/hw4/core/BoardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/test/java/edu/cmu/cs/cs214/hw4/core/CarcassoneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/test/java/edu/cmu/cs/cs214/hw4/core/DeckTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/test/java/edu/cmu/cs/cs214/hw4/core/FeatureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/test/java/edu/cmu/cs/cs214/hw4/core/ScenariosTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/test/java/edu/cmu/cs/cs214/hw4/core/TileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/tile-distribution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/src/main/java/edu/cmu/cs/cs214/hw6/parallel/ParallelNMostSimilarSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6/src/main/java/edu/cmu/cs/cs214/hw6/parallel/ParallelNMostSimilarSelector.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1niTa7b9aRHQvc1Ucqi44vMdVuU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7060db8a-35ec-44fe-85c8-26a3e42788b4" name="Default Changelist" comment="" />
+      <created>1611871971794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611871971794</updated>
+      <workItem from="1611871978426" duration="184000" />
+      <workItem from="1611873294080" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

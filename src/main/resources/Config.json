@@ -1,0 +1,244 @@
+{
+  "tiles":[
+    {
+      "code": "A",
+      "count": 2,
+      "hasMonastery": true,
+      "segments": [
+        "FIELD", "FIELD", "ROAD", "FIELD"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "B",
+      "count": 4,
+      "hasMonastery": true,
+      "segments": [
+        "FIELD", "FIELD", "FIELD", "FIELD"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "C",
+      "count": 1,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "CITY", "CITY", "CITY"
+      ],
+      "isArmed": true,
+      "isJoined": true
+    },
+    {
+      "code": "D",
+      "count": 4,
+      "hasMonastery": false,
+      "segments": [
+        "ROAD", "CITY", "ROAD", "FIELD"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "E",
+      "count": 5,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "FIELD", "FIELD", "FIELD"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "F",
+      "count": 2,
+      "hasMonastery": false,
+      "segments": [
+        "FIELD", "CITY", "FIELD", "CITY"
+      ],
+      "isArmed":true,
+      "isJoined": true
+    },
+    {
+      "code": "G",
+      "count": 1,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "FIELD", "CITY", "FIELD"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "H",
+      "count": 3,
+      "hasMonastery": false,
+      "segments": [
+        "FIELD", "CITY", "FIELD", "CITY"
+      ],
+      "isArmed": false,
+      "isJoined": false
+    },
+    {
+      "code": "I",
+      "count": 2,
+      "hasMonastery": false,
+      "segments": [
+        "FIELD", "CITY", "CITY", "FIELD"
+      ],
+      "isArmed": false,
+      "isJoined": false
+    },
+    {
+      "code": "J",
+      "count": 3,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "ROAD", "ROAD", "FIELD"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "K",
+      "count": 3,
+      "hasMonastery": false,
+      "segments": [
+        "ROAD", "CITY", "FIELD", "ROAD"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "L",
+      "count": 3,
+      "hasMonastery": false,
+      "segments": [
+        "ROAD", "CITY", "ROAD", "ROAD"
+      ],
+      "isArmed": false,
+      "isJoined": false
+    },
+    {
+      "code": "M",
+      "count": 2,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "FIELD", "FIELD", "CITY"
+      ],
+      "isArmed": true,
+      "isJoined": true
+    },
+    {
+      "code": "N",
+      "count": 3,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "FIELD", "FIELD", "CITY"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "O",
+      "count": 2,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "ROAD", "ROAD", "CITY"
+      ],
+      "isArmed": true,
+      "isJoined": true
+    },
+    {
+      "code": "P",
+      "count": 3,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "ROAD", "ROAD", "CITY"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "Q",
+      "count": 1,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "CITY", "FIELD", "CITY"
+      ],
+      "isArmed": true,
+      "isJoined": true
+    },
+    {
+      "code": "R",
+      "count": 3,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "CITY", "FIELD", "CITY"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "S",
+      "count": 2,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "CITY", "ROAD", "CITY"
+      ],
+      "isArmed": true,
+      "isJoined": true
+    },
+    {
+      "code": "T",
+      "count": 1,
+      "hasMonastery": false,
+      "segments": [
+        "CITY", "CITY", "ROAD", "CITY"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "U",
+      "count": 8,
+      "hasMonastery": false,
+      "segments": [
+        "ROAD", "FIELD", "ROAD", "FIELD"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "V",
+      "count": 9,
+      "hasMonastery": false,
+      "segments": [
+        "FIELD", "FIELD", "ROAD", "ROAD"
+      ],
+      "isArmed": false,
+      "isJoined": true
+    },
+    {
+      "code": "W",
+      "count": 4,
+      "hasMonastery": false,
+      "segments": [
+        "FIELD", "ROAD", "ROAD", "ROAD"
+      ],
+      "isArmed": false,
+      "isJoined": false
+    },
+    {
+      "code": "X",
+      "count": 1,
+      "hasMonastery": false,
+      "segments": [
+        "ROAD", "ROAD", "ROAD", "ROAD"
+      ],
+      "isArmed": false,
+      "isJoined": false
+    }
+  ]
+}
